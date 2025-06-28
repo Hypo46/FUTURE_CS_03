@@ -109,6 +109,9 @@ if __name__ == '__main__':
 ```
 ## 📝 📂Uploads/ IMAGE 
 ## 🖼️ Uploaded
-
-![Preview](uploads/2.gif)
+```
+![Preview](uploads/1.gif)
+```
+```
 ![Preview](uploads/sample.png)
+```
